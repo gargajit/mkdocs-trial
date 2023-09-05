@@ -1,15 +1,15 @@
 -- import: fastn
 
--- fastn.package: __user_name__.github.io/__repo_name__
-favicon: /-/__user_name__.github.io/__repo_name__/favicon.ico
+-- fastn.package: gargajit.github.io/mkdocs-trial
+favicon: /-/gargajit.github.io/mkdocs-trial/favicon.ico
 
 
 -- fastn.dependency: fastn-community.github.io/midnight-rush as theme
 -- fastn.dependency: fastn-community.github.io/midnight-rush-cs as cs
 -- fastn.dependency: fastn-community.github.io/midnight-rush-typography as typo
 
--- fastn.auto-import: __user_name__.github.io/__repo_name__/FASTN/ws
--- fastn.auto-import: __user_name__.github.io/__repo_name__/assets
+-- fastn.auto-import: gargajit.github.io/mkdocs-trial/FASTN/ws
+-- fastn.auto-import: gargajit.github.io/mkdocs-trial/assets
 -- fastn.auto-import: theme
 -- fastn.auto-import: theme/common
 

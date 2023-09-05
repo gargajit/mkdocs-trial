@@ -1,4 +1,4 @@
--- import: __user_name__.github.io/__repo_name__/blog/post-author as author
+-- import: gargajit.github.io/mkdocs-trial/blog/post-author as author
 
 
 -- common.post-meta meta1: New product launch event
